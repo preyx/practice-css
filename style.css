@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+  background-color: #008080;
+  color: #ffffff;
+}
+
+/* header h1 {
+  font-size: 200%;
+  font-weight: bold;
+} */
+
+#content {
+  width: 75%;
+  margin: 20px auto;
+}
+
+#left {
+  float: left;
+  width: 67%;
+}
+
+#left img {
+  float: left;
+}
+
+#left p {
+  margin-left: 210px;
+}
+
+#right {
+  float: right;
+  width: 33%;
+}
